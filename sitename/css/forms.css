@@ -1,0 +1,12 @@
+body {
+  background-image: url('/sitename/images/sunbackground.jpeg');
+  background-size: cover;
+  background-attachment: fixed;
+    margin: 0;
+  padding: 0;
+  font-family: Verdana, sans-serif;
+}
+.tg img {
+    width: 20%;
+    height: auto;
+}
