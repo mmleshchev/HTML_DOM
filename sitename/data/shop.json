@@ -1,0 +1,84 @@
+[
+  {
+    "id": "1",
+    "title": "Epiphone Casino.",
+    "vendor_code": "111",
+    "description": "Epiphone Casino.",
+    "price": 100,
+    "img": "/DOM/images/casino.jpeg"
+  },
+  {
+    "id": "2",
+    "title": "Fender Jaguar",
+    "vendor_code": "222",
+    "description": "Fender Player Jaguar",
+    "price": 200,
+    "img": "/DOM/images/fender_jaguar.jpeg"
+  },
+  {
+    "id": "3",
+    "title": "Fender Mustang",
+    "vendor_code": "333",
+    "description": "Fender Vintera Mustang",
+    "price": 300,
+    "img": "/DOM/images/fender_mustang.jpeg"
+  },
+  {
+    "id": "4",
+    "title": "Fender Jag-Stang",
+    "vendor_code": "444e",
+    "description": "Fender Jag-Stang",
+    "price": 400,
+    "img": "/DOM/images/jag-stang.jpeg"
+  }
+  ,
+  {
+    "id": "5",
+    "title": "Fender Mustang bass",
+    "vendor_code": "4445e",
+    "description": "Fender Mustang Bass",
+    "price": 400,
+    "img": "https://raw.githubusercontent.com/vmarshirov/g06u28/main/images/uso_005.jpg"
+  },
+  {
+    "id": "6",
+    "title": "Fender Acoustasonic",
+    "vendor_code": "4446e",
+    "description": "Fender Acoustasonic",
+    "price": 400,
+    "img": "/DOM/images/acoustasonic.jpeg"
+  },
+  {
+    "id": "7",
+    "title": "Gibson Acoustic SJ22VSGA1 J-200",
+    "vendor_code": "4447e",
+    "description": "Gibson Acoustic SJ22VSGA1 J-200",
+    "price": 700,
+    "img": "/DOM/images/gibsonac.jpeg"
+  },
+  {
+    "id": "8",
+    "title": "Ernie Ball strings 9-42",
+    "vendor_code": "4448e",
+    "description": "Ernie Ball strings 9-42",
+    "price": 800,
+    "img": "/DOM/images/eb942.jpeg"
+  },
+  {
+    "id": "9",
+    "title": "Ernie Ball 10-46",
+    "vendor_code": "444e",
+    "description": "Ernie Ball 10-46",
+    "price": 400,
+    "img": "/DOM/images/eb1046.jpeg"
+  }
+  ,
+  {
+    "id": "10",
+    "title": "Ernie Ball 11-52",
+    "vendor_code": "44410e",
+    "description": "Ernie Ball11-52",
+    "price": 900,
+    "img": "/DOM/images/eb1154.jpeg"
+  }
+],
